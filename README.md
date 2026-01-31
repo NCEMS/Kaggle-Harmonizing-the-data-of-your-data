@@ -8,7 +8,7 @@ A Kaggle competition focused on building text mining systems to automatically ge
 - **Prize Pool**: $10,000 (1st: $5,000 | 2nd: $3,000 | 3rd: $2,000)
 - **Authorship Opportunity**: Co-author consideration for scientific publication. 
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About the Competition](#about-the-competition)
 - [Evaluation Metric](#evaluation-metric)
@@ -19,7 +19,7 @@ A Kaggle competition focused on building text mining systems to automatically ge
 - [Repository Structure](#repository-structure)
 - [Examples](#examples)
 
-## 📚 About the Competition
+## About the Competition
 
 ### Problem Statement
 
