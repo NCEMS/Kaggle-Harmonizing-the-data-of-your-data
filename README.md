@@ -445,7 +445,7 @@ git push origin feat/your-pipeline-name
 - ❌ Broken or incomplete pipelines
 - ❌ Duplicate submissions (check existing ones first)
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -482,7 +482,7 @@ The `data/` folder contains essential files for the competition:
 - **`TestPubText/`**: Collection of test publication texts (JSON). Your model must extract SDRF metadata from these publications.
 - **`detailed_evaluation_metrics.csv`**: Example output from running the scoring function, showing detailed metrics per publication and annotation type.
 
-## 📝 Examples
+## Examples
 
 ### Running the Scorer Locally
 
